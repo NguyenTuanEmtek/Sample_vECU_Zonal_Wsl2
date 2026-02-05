@@ -1,0 +1,918 @@
+2026-02-04 00:38:32,566 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-04 00:38:32,583 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-04 00:38:32,584 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-04 00:38:32,584 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-04 00:38:32,585 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-04 00:38:43,209 - WSL2SocketServer - INFO - STATS: 0 msgs received, 0 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 00:38:48,614 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 43832)
+2026-02-04 00:38:51,109 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-04 00:38:53,221 - WSL2SocketServer - INFO - STATS: 93 msgs received, 93 forwarded, Rate: 4.5/s, Subscribers: 0
+2026-02-04 00:38:53,564 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 00:38:53,565 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 43832)
+2026-02-04 00:38:56,018 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-04 00:38:58,464 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-04 00:38:58,465 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 43832)
+2026-02-04 00:39:00,906 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-04 00:39:03,231 - WSL2SocketServer - INFO - STATS: 297 msgs received, 297 forwarded, Rate: 9.7/s, Subscribers: 0
+2026-02-04 00:39:03,348 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-04 00:39:03,349 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 43832)
+2026-02-04 00:39:05,796 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-04 00:39:08,253 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-04 00:39:08,255 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 43832)
+2026-02-04 00:39:10,710 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-04 00:39:13,751 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-04 00:39:13,752 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 43832)
+2026-02-04 00:39:13,818 - WSL2SocketServer - INFO - STATS: 501 msgs received, 501 forwarded, Rate: 12.1/s, Subscribers: 0
+2026-02-04 00:39:16,230 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-04 00:39:18,660 - WSL2SocketServer - INFO - Client ('127.0.0.1', 43832) disconnected
+2026-02-04 00:39:18,661 - WSL2SocketServer - INFO - Client ('127.0.0.1', 43832) connection closed
+2026-02-04 00:39:23,826 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 11.7/s, Subscribers: 0
+2026-02-04 00:39:33,829 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 9.8/s, Subscribers: 0
+2026-02-04 00:39:43,839 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 8.4/s, Subscribers: 0
+2026-02-04 00:39:54,444 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 7.3/s, Subscribers: 0
+2026-02-04 00:40:04,452 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 6.5/s, Subscribers: 0
+2026-02-04 00:40:14,462 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 5.9/s, Subscribers: 0
+2026-02-04 00:40:25,044 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 5.3/s, Subscribers: 0
+2026-02-04 00:40:35,055 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 4.9/s, Subscribers: 0
+2026-02-04 00:40:45,062 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 4.5/s, Subscribers: 0
+2026-02-04 00:40:55,647 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 4.2/s, Subscribers: 0
+2026-02-04 00:41:05,657 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.9/s, Subscribers: 0
+2026-02-04 00:41:15,669 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.7/s, Subscribers: 0
+2026-02-04 00:41:26,268 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.4/s, Subscribers: 0
+2026-02-04 00:41:36,277 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.3/s, Subscribers: 0
+2026-02-04 00:41:46,287 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.1/s, Subscribers: 0
+2026-02-04 00:41:56,933 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.9/s, Subscribers: 0
+2026-02-04 00:42:06,944 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.8/s, Subscribers: 0
+2026-02-04 00:42:16,946 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.7/s, Subscribers: 0
+2026-02-04 00:42:26,957 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.6/s, Subscribers: 0
+2026-02-04 00:42:37,593 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.4/s, Subscribers: 0
+2026-02-04 00:42:47,599 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.3/s, Subscribers: 0
+2026-02-04 00:42:57,613 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.3/s, Subscribers: 0
+2026-02-04 00:43:08,280 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.2/s, Subscribers: 0
+2026-02-04 00:43:18,290 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.1/s, Subscribers: 0
+2026-02-04 00:43:28,299 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.0/s, Subscribers: 0
+2026-02-04 00:43:38,957 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.0/s, Subscribers: 0
+2026-02-04 00:43:48,970 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.9/s, Subscribers: 0
+2026-02-04 00:43:58,979 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.8/s, Subscribers: 0
+2026-02-04 00:44:09,628 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.8/s, Subscribers: 0
+2026-02-04 00:44:19,639 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.7/s, Subscribers: 0
+2026-02-04 00:44:29,654 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.7/s, Subscribers: 0
+2026-02-04 00:44:39,663 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.6/s, Subscribers: 0
+2026-02-04 00:44:50,305 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.6/s, Subscribers: 0
+2026-02-04 00:45:00,307 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.5/s, Subscribers: 0
+2026-02-04 00:45:10,314 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.5/s, Subscribers: 0
+2026-02-04 00:45:20,929 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.5/s, Subscribers: 0
+2026-02-04 00:45:30,941 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.4/s, Subscribers: 0
+2026-02-04 00:45:40,950 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.4/s, Subscribers: 0
+2026-02-04 00:45:51,551 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.4/s, Subscribers: 0
+2026-02-04 00:46:01,562 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.3/s, Subscribers: 0
+2026-02-04 00:46:11,572 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.3/s, Subscribers: 0
+2026-02-04 00:46:22,192 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.3/s, Subscribers: 0
+2026-02-04 00:46:32,205 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.2/s, Subscribers: 0
+2026-02-04 00:46:42,216 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.2/s, Subscribers: 0
+2026-02-04 00:46:52,844 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.2/s, Subscribers: 0
+2026-02-04 00:47:02,855 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.2/s, Subscribers: 0
+2026-02-04 00:47:12,861 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 00:47:22,872 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 00:47:33,476 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 00:47:43,487 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 00:47:53,497 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 00:48:04,122 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 00:48:14,133 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 00:48:24,151 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 00:48:34,763 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 00:48:44,774 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 00:48:54,786 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 00:49:05,430 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 00:49:15,441 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 00:49:25,444 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 00:49:35,454 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 00:49:46,059 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 00:49:56,070 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 00:50:06,081 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 00:50:16,685 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:50:26,695 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:50:36,706 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:50:47,306 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:50:57,315 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:51:07,325 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:51:17,930 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:51:27,938 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:51:37,947 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:51:48,547 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 00:51:58,556 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:52:08,559 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:52:18,566 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:52:29,167 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:52:39,176 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:52:49,185 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:52:59,786 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:53:09,800 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:53:19,811 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:53:30,415 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:53:40,422 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:53:50,434 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 00:54:01,036 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:54:11,047 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:54:21,058 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:54:31,069 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:54:41,669 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:54:51,677 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:55:01,682 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:55:12,282 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:55:22,293 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:55:32,305 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:55:42,904 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:55:52,916 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:56:02,927 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:56:13,545 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:56:23,560 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:56:33,567 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 00:56:44,235 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:56:54,243 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:57:04,252 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:57:14,262 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:57:24,857 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:57:34,868 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:57:44,880 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:57:55,479 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:58:05,489 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:58:15,500 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:58:26,106 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:58:36,114 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:58:46,126 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:58:56,728 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:59:06,740 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:59:16,751 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:59:26,761 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:59:37,375 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:59:47,385 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 00:59:57,398 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 01:00:08,021 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 01:00:18,038 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 01:00:28,048 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 01:00:38,665 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 01:00:48,676 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:00:58,686 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:01:09,308 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:01:19,321 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:01:29,326 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:01:39,951 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:01:49,961 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:01:59,970 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:02:09,984 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:02:20,619 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:02:30,629 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:02:40,640 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:02:51,274 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:03:01,283 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:03:11,297 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:03:21,911 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:03:31,923 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:03:41,933 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:03:52,556 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:04:02,567 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:04:12,577 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:04:22,588 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:04:33,176 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:04:43,187 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:04:53,194 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:05:03,840 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:05:13,864 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:05:23,871 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:05:34,526 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:05:44,531 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:05:54,541 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 01:06:05,224 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.4/s, Subscribers: 0
+2026-02-04 04:06:17,981 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:49:09,379 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:49:19,399 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:49:29,414 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:49:39,885 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:49:49,895 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:49:59,906 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:50:10,393 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:50:20,402 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:50:30,409 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:50:40,418 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:50:50,887 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:51:00,902 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:51:10,914 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:51:21,387 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:51:31,396 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:51:41,408 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:51:51,939 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:52:01,951 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:52:11,961 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:52:22,493 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:52:32,504 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:52:42,512 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:52:52,524 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:53:03,061 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:53:13,072 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:53:23,086 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:53:33,564 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:53:43,574 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:53:53,586 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:54:04,165 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:54:14,170 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:54:24,180 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:54:34,676 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:54:44,685 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:54:54,695 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:55:05,191 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:55:15,202 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:55:25,234 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:55:35,245 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:55:45,740 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:55:55,753 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:56:05,765 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:56:16,262 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:56:26,273 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:56:36,283 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:56:46,778 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:56:56,790 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:57:06,801 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:57:17,302 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:57:27,313 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:57:37,322 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:57:47,333 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:57:57,829 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:58:07,840 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:58:17,846 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:58:28,347 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:58:38,359 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:58:48,369 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:58:58,871 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:59:08,882 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:59:18,890 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:59:29,390 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:59:39,401 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:59:49,402 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 08:59:59,900 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:00:09,912 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:00:19,924 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:00:29,937 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:00:40,418 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:00:50,428 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:01:00,440 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:01:10,942 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:01:20,949 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:01:30,962 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:01:41,465 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:01:51,477 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:02:01,488 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:02:11,988 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:02:21,995 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:02:32,006 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:02:42,016 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:02:52,510 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:03:02,514 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:03:12,518 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:03:22,991 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:03:33,002 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:03:43,006 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:03:53,483 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:04:03,494 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:04:13,505 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:04:23,979 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:04:33,984 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:04:43,994 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:04:54,489 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:05:04,500 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:05:14,510 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:05:24,521 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:05:35,004 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:05:45,012 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:05:55,018 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:06:05,516 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:06:15,527 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:06:25,538 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:06:36,044 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:06:46,054 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:06:56,065 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:07:06,568 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:07:16,574 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:07:26,585 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:07:36,596 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:07:47,094 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:07:57,102 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:08:07,110 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:08:17,639 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:08:27,650 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:08:37,660 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:08:48,196 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:08:58,207 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:09:06,862 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 35190)
+2026-02-04 09:09:07,009 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=63%
+2026-02-04 09:09:07,009 - WSL2SocketServer - INFO - Processed 600 messages from ('127.0.0.1', 35190)
+2026-02-04 09:09:08,217 - WSL2SocketServer - INFO - STATS: 624 msgs received, 624 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:09:09,471 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=76%
+2026-02-04 09:09:11,933 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 09:09:11,934 - WSL2SocketServer - INFO - Processed 700 messages from ('127.0.0.1', 35190)
+2026-02-04 09:09:14,396 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=86%
+2026-02-04 09:09:17,381 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=47%
+2026-02-04 09:09:17,381 - WSL2SocketServer - INFO - Processed 800 messages from ('127.0.0.1', 35190)
+2026-02-04 09:09:18,750 - WSL2SocketServer - INFO - STATS: 827 msgs received, 827 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:09:19,843 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=62%
+2026-02-04 09:09:22,306 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=77%
+2026-02-04 09:09:22,307 - WSL2SocketServer - INFO - Processed 900 messages from ('127.0.0.1', 35190)
+2026-02-04 09:09:24,767 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 09:09:27,228 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-04 09:09:27,228 - WSL2SocketServer - INFO - Processed 1000 messages from ('127.0.0.1', 35190)
+2026-02-04 09:09:28,760 - WSL2SocketServer - INFO - STATS: 1031 msgs received, 1031 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:09:29,688 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-04 09:09:32,146 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=60%
+2026-02-04 09:09:32,147 - WSL2SocketServer - INFO - Processed 1100 messages from ('127.0.0.1', 35190)
+2026-02-04 09:09:34,609 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-04 09:09:36,918 - WSL2SocketServer - INFO - Client ('127.0.0.1', 35190) disconnected
+2026-02-04 09:09:36,919 - WSL2SocketServer - INFO - Client ('127.0.0.1', 35190) connection closed
+2026-02-04 09:09:38,766 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:09:49,294 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:09:59,304 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:10:09,314 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:10:19,324 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:10:29,851 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:10:39,862 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:10:49,873 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:10:59,883 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:11:10,553 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:11:20,564 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:11:30,575 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:11:40,585 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:11:51,081 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:12:01,092 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:12:11,103 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:12:21,603 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:12:31,612 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:12:41,621 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:12:52,100 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:13:02,110 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:13:12,120 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:13:22,618 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:13:32,629 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:13:42,641 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:13:52,652 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:14:03,124 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:14:13,134 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:14:23,144 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:14:33,613 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:14:43,623 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:14:53,634 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:15:04,118 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:15:14,121 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:15:24,132 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:15:34,545 - WSL2SocketServer - INFO - STATS: 1196 msgs received, 1196 forwarded, Rate: 0.0/s, Subscribers: 0
+2026-02-04 09:17:23,316 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-04 09:17:23,334 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-04 09:17:23,336 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-04 09:17:23,336 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-04 09:17:23,337 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-04 09:17:27,315 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 41206)
+2026-02-04 09:17:29,831 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-04 09:17:32,299 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 09:17:32,299 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 41206)
+2026-02-04 09:17:33,348 - WSL2SocketServer - INFO - STATS: 121 msgs received, 121 forwarded, Rate: 12.1/s, Subscribers: 0
+2026-02-04 09:17:34,766 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-04 09:17:37,235 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-04 09:17:37,235 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 41206)
+2026-02-04 09:17:39,702 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-04 09:17:42,587 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-04 09:17:42,588 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 41206)
+2026-02-04 09:17:43,777 - WSL2SocketServer - INFO - STATS: 324 msgs received, 324 forwarded, Rate: 15.8/s, Subscribers: 0
+2026-02-04 09:17:45,055 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-04 09:17:47,523 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-04 09:17:47,524 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 41206)
+2026-02-04 09:17:49,990 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-04 09:17:52,458 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-04 09:17:52,459 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 41206)
+2026-02-04 09:17:53,783 - WSL2SocketServer - INFO - STATS: 526 msgs received, 526 forwarded, Rate: 17.3/s, Subscribers: 0
+2026-02-04 09:17:54,925 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-04 09:17:57,344 - WSL2SocketServer - INFO - Client ('127.0.0.1', 41206) disconnected
+2026-02-04 09:17:57,345 - WSL2SocketServer - INFO - Client ('127.0.0.1', 41206) connection closed
+2026-02-04 09:18:03,795 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 14.8/s, Subscribers: 0
+2026-02-04 09:18:13,806 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 11.8/s, Subscribers: 0
+2026-02-04 09:18:24,248 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 9.8/s, Subscribers: 0
+2026-02-04 09:18:34,259 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 8.4/s, Subscribers: 0
+2026-02-04 09:18:44,270 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 7.4/s, Subscribers: 0
+2026-02-04 09:18:54,699 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 6.5/s, Subscribers: 0
+2026-02-04 09:19:04,716 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 5.9/s, Subscribers: 0
+2026-02-04 09:19:14,719 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 5.4/s, Subscribers: 0
+2026-02-04 09:19:25,148 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 4.9/s, Subscribers: 0
+2026-02-04 09:19:35,158 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 4.5/s, Subscribers: 0
+2026-02-04 09:19:45,168 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 4.2/s, Subscribers: 0
+2026-02-04 09:19:55,603 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.9/s, Subscribers: 0
+2026-02-04 09:20:05,611 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.7/s, Subscribers: 0
+2026-02-04 09:20:15,620 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.5/s, Subscribers: 0
+2026-02-04 09:20:26,057 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.3/s, Subscribers: 0
+2026-02-04 09:20:36,067 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 3.1/s, Subscribers: 0
+2026-02-04 09:20:46,078 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.9/s, Subscribers: 0
+2026-02-04 09:20:56,088 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.8/s, Subscribers: 0
+2026-02-04 09:21:06,523 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.7/s, Subscribers: 0
+2026-02-04 09:21:16,534 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.6/s, Subscribers: 0
+2026-02-04 09:21:26,545 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.5/s, Subscribers: 0
+2026-02-04 09:21:36,982 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.4/s, Subscribers: 0
+2026-02-04 09:21:46,996 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.3/s, Subscribers: 0
+2026-02-04 09:21:57,007 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.2/s, Subscribers: 0
+2026-02-04 09:22:07,453 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.1/s, Subscribers: 0
+2026-02-04 09:22:17,467 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.0/s, Subscribers: 0
+2026-02-04 09:22:27,477 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 2.0/s, Subscribers: 0
+2026-02-04 09:22:37,909 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.9/s, Subscribers: 0
+2026-02-04 09:22:47,916 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.8/s, Subscribers: 0
+2026-02-04 09:22:57,927 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.8/s, Subscribers: 0
+2026-02-04 09:23:07,947 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.7/s, Subscribers: 0
+2026-02-04 09:23:18,396 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.7/s, Subscribers: 0
+2026-02-04 09:23:28,399 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.6/s, Subscribers: 0
+2026-02-04 09:23:38,408 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.6/s, Subscribers: 0
+2026-02-04 09:23:48,842 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.6/s, Subscribers: 0
+2026-02-04 09:23:58,854 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.5/s, Subscribers: 0
+2026-02-04 09:24:08,875 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.5/s, Subscribers: 0
+2026-02-04 09:24:19,308 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.4/s, Subscribers: 0
+2026-02-04 09:24:29,317 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.4/s, Subscribers: 0
+2026-02-04 09:24:39,323 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.4/s, Subscribers: 0
+2026-02-04 09:24:49,767 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.3/s, Subscribers: 0
+2026-02-04 09:24:59,768 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.3/s, Subscribers: 0
+2026-02-04 09:25:09,776 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.3/s, Subscribers: 0
+2026-02-04 09:25:20,216 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.3/s, Subscribers: 0
+2026-02-04 09:25:30,218 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.2/s, Subscribers: 0
+2026-02-04 09:25:40,228 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.2/s, Subscribers: 0
+2026-02-04 09:25:50,242 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.2/s, Subscribers: 0
+2026-02-04 09:26:00,699 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.2/s, Subscribers: 0
+2026-02-04 09:26:10,709 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 09:26:20,719 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 09:26:31,163 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 09:26:41,172 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 09:26:51,183 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.1/s, Subscribers: 0
+2026-02-04 09:27:01,641 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 09:27:11,652 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 09:27:21,664 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 09:27:32,102 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 09:27:42,105 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 09:27:52,117 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 1.0/s, Subscribers: 0
+2026-02-04 09:28:02,129 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 09:28:12,600 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 09:28:22,611 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 09:28:32,616 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 09:28:43,055 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 09:28:53,066 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 09:29:03,083 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.9/s, Subscribers: 0
+2026-02-04 09:29:13,543 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:29:23,553 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:29:33,566 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:29:44,050 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:29:54,055 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:30:04,059 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:30:14,559 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:30:24,571 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:30:34,581 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.8/s, Subscribers: 0
+2026-02-04 09:30:44,594 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:30:55,100 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:31:05,109 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:31:15,110 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:31:25,595 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:31:35,608 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:31:45,617 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:31:56,094 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:32:06,103 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:32:16,114 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:32:26,618 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:32:36,629 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.7/s, Subscribers: 0
+2026-02-04 09:32:46,641 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:32:56,652 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:33:07,152 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:33:17,164 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:33:27,174 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:33:37,668 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:33:47,681 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:33:57,692 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:34:08,196 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:34:18,207 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:34:28,218 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:34:38,687 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:34:48,697 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:34:58,709 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:35:09,127 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:35:19,138 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:35:29,148 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.6/s, Subscribers: 0
+2026-02-04 09:35:39,158 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:35:49,651 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:35:59,661 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:36:09,671 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:36:20,179 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:36:30,189 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:36:40,200 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:36:50,619 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:37:00,629 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:37:10,640 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:37:21,110 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:37:31,122 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:37:41,133 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:37:51,144 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:38:01,616 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 0.5/s, Subscribers: 0
+2026-02-04 09:39:04,648 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-04 09:39:04,671 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-04 09:39:04,672 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-04 09:39:04,673 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-04 09:39:04,673 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-04 09:39:14,618 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 47354)
+2026-02-04 09:39:14,684 - WSL2SocketServer - INFO - STATS: 1 msgs received, 1 forwarded, Rate: 0.1/s, Subscribers: 0
+2026-02-04 09:39:17,131 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-04 09:39:19,596 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 09:39:19,598 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 47354)
+2026-02-04 09:39:22,061 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-04 09:39:24,526 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-04 09:39:24,527 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 47354)
+2026-02-04 09:39:24,691 - WSL2SocketServer - INFO - STATS: 203 msgs received, 203 forwarded, Rate: 10.1/s, Subscribers: 0
+2026-02-04 09:39:26,991 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-04 09:39:29,456 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-04 09:39:29,457 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 47354)
+2026-02-04 09:39:32,374 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-04 09:39:34,840 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-04 09:39:34,841 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 47354)
+2026-02-04 09:39:35,152 - WSL2SocketServer - INFO - STATS: 406 msgs received, 406 forwarded, Rate: 13.3/s, Subscribers: 0
+2026-02-04 09:39:37,305 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-04 09:39:39,770 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-04 09:39:39,770 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 47354)
+2026-02-04 09:39:42,235 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-04 09:39:44,650 - WSL2SocketServer - INFO - Client ('127.0.0.1', 47354) disconnected
+2026-02-04 09:39:44,652 - WSL2SocketServer - INFO - Client ('127.0.0.1', 47354) connection closed
+2026-02-04 09:39:45,162 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 14.8/s, Subscribers: 0
+2026-02-04 09:39:55,172 - WSL2SocketServer - INFO - STATS: 598 msgs received, 598 forwarded, Rate: 11.8/s, Subscribers: 0
+2026-02-04 09:40:15,629 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-04 09:40:15,651 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-04 09:40:15,652 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-04 09:40:15,653 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-04 09:40:15,653 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-04 09:40:18,556 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 33318)
+2026-02-04 09:40:21,071 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-04 09:40:23,536 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 09:40:23,537 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 33318)
+2026-02-04 09:40:26,001 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-04 09:40:28,466 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-04 09:40:28,467 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 33318)
+2026-02-04 09:40:30,931 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-04 09:40:33,400 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-04 09:40:33,401 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 33318)
+2026-02-04 09:40:36,319 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-04 09:40:38,784 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-04 09:40:38,786 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 33318)
+2026-02-04 09:40:41,249 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-04 09:40:43,715 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-04 09:40:43,716 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 33318)
+2026-02-04 09:40:46,180 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-04 09:40:48,596 - WSL2SocketServer - INFO - Client ('127.0.0.1', 33318) disconnected
+2026-02-04 09:40:48,597 - WSL2SocketServer - INFO - Client ('127.0.0.1', 33318) connection closed
+2026-02-04 09:43:01,402 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-04 09:43:01,413 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-04 09:43:01,414 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-04 09:43:01,415 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-04 09:43:01,415 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-04 09:43:07,242 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 51258)
+2026-02-04 09:43:09,776 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-04 09:43:12,242 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 09:43:12,243 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 51258)
+2026-02-04 09:43:14,707 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-04 09:43:17,174 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-04 09:43:17,175 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 51258)
+2026-02-04 09:43:20,132 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-04 09:43:22,599 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-04 09:43:22,599 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 51258)
+2026-02-04 09:43:25,065 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-04 09:43:27,531 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-04 09:43:27,532 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 51258)
+2026-02-04 09:43:29,996 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-04 09:43:32,461 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-04 09:43:32,461 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 51258)
+2026-02-04 09:43:34,926 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-04 09:43:37,343 - WSL2SocketServer - INFO - Client ('127.0.0.1', 51258) disconnected
+2026-02-04 09:43:37,344 - WSL2SocketServer - INFO - Client ('127.0.0.1', 51258) connection closed
+2026-02-04 09:55:38,380 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-04 09:55:38,396 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-04 09:55:38,398 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-04 09:55:38,398 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-04 09:55:38,399 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-04 09:55:44,375 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 35154)
+2026-02-04 09:55:46,872 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-04 09:55:49,322 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 09:55:49,322 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 35154)
+2026-02-04 09:55:51,760 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-04 09:55:54,186 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-04 09:55:54,187 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 35154)
+2026-02-04 09:55:56,612 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-04 09:55:59,077 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-04 09:55:59,078 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 35154)
+2026-02-04 09:56:01,542 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-04 09:56:04,007 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-04 09:56:04,008 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 35154)
+2026-02-04 09:56:06,473 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-04 09:56:09,491 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-04 09:56:09,491 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 35154)
+2026-02-04 09:56:11,996 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-04 09:56:14,419 - WSL2SocketServer - INFO - Client ('127.0.0.1', 35154) disconnected
+2026-02-04 09:56:14,420 - WSL2SocketServer - INFO - Client ('127.0.0.1', 35154) connection closed
+2026-02-04 15:43:41,936 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-04 15:43:41,969 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-04 15:43:41,971 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-04 15:43:41,972 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-04 15:43:41,972 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-04 15:43:54,802 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 32776)
+2026-02-04 15:43:57,288 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-04 15:43:59,719 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-04 15:43:59,720 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 32776)
+2026-02-04 15:44:02,151 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-04 15:44:04,589 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-04 15:44:04,591 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 32776)
+2026-02-04 15:44:07,920 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-04 15:44:10,357 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-04 15:44:10,358 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 32776)
+2026-02-04 15:44:12,794 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-04 15:44:15,229 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-04 15:44:15,230 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 32776)
+2026-02-04 15:44:17,665 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-04 15:44:20,100 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-04 15:44:20,101 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 32776)
+2026-02-04 15:44:22,534 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-04 15:44:24,920 - WSL2SocketServer - INFO - Client ('127.0.0.1', 32776) disconnected
+2026-02-04 15:44:24,922 - WSL2SocketServer - INFO - Client ('127.0.0.1', 32776) connection closed
+2026-02-05 11:23:14,465 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-05 11:23:14,478 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-05 11:23:14,478 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-05 11:23:14,479 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-05 11:23:14,479 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-05 11:28:24,427 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 36428)
+2026-02-05 11:28:26,834 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-05 11:28:29,194 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-05 11:28:29,194 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 36428)
+2026-02-05 11:28:31,554 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-05 11:28:33,939 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-05 11:28:33,940 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 36428)
+2026-02-05 11:28:36,343 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-05 11:28:38,746 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-05 11:28:38,747 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 36428)
+2026-02-05 11:28:41,143 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-05 11:28:43,521 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-05 11:28:43,522 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 36428)
+2026-02-05 11:28:45,899 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-05 11:28:48,278 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-05 11:28:48,279 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 36428)
+2026-02-05 11:28:52,209 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-05 11:28:54,569 - WSL2SocketServer - INFO - Client ('127.0.0.1', 36428) disconnected
+2026-02-05 11:28:54,570 - WSL2SocketServer - INFO - Client ('127.0.0.1', 36428) connection closed
+2026-02-05 11:32:30,703 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-05 11:32:30,716 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-05 11:32:30,717 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-05 11:32:30,717 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-05 11:32:30,718 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-05 11:32:31,444 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 47798)
+2026-02-05 11:32:31,460 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=77%
+2026-02-05 11:32:31,463 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-05 11:32:31,463 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 47798)
+2026-02-05 11:32:32,851 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-05 11:32:35,337 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=48%
+2026-02-05 11:32:35,337 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 47798)
+2026-02-05 11:32:37,717 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=60%
+2026-02-05 11:32:40,009 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-05 11:32:40,010 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 47798)
+2026-02-05 11:32:42,450 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-05 11:32:44,916 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-05 11:32:44,916 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 47798)
+2026-02-05 11:32:48,936 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=50%
+2026-02-05 11:32:51,429 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-05 11:32:51,429 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 47798)
+2026-02-05 11:32:53,929 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-05 11:32:56,143 - WSL2SocketServer - INFO - Client ('127.0.0.1', 47798) disconnected
+2026-02-05 11:32:56,144 - WSL2SocketServer - INFO - Client ('127.0.0.1', 47798) connection closed
+2026-02-05 11:51:06,440 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 48512)
+2026-02-05 11:51:06,618 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=64%
+2026-02-05 11:51:06,619 - WSL2SocketServer - INFO - Processed 600 messages from ('127.0.0.1', 48512)
+2026-02-05 11:51:08,868 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=75%
+2026-02-05 11:51:11,188 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=39%
+2026-02-05 11:51:11,189 - WSL2SocketServer - INFO - Processed 700 messages from ('127.0.0.1', 48512)
+2026-02-05 11:51:13,627 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=86%
+2026-02-05 11:51:15,974 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=46%
+2026-02-05 11:51:15,974 - WSL2SocketServer - INFO - Processed 800 messages from ('127.0.0.1', 48512)
+2026-02-05 11:51:18,321 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=63%
+2026-02-05 11:51:20,694 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=76%
+2026-02-05 11:51:20,694 - WSL2SocketServer - INFO - Processed 900 messages from ('127.0.0.1', 48512)
+2026-02-05 11:51:23,081 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-05 11:51:25,446 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=86%
+2026-02-05 11:51:25,446 - WSL2SocketServer - INFO - Processed 1000 messages from ('127.0.0.1', 48512)
+2026-02-05 11:51:27,810 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=48%
+2026-02-05 11:51:32,073 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=61%
+2026-02-05 11:51:32,074 - WSL2SocketServer - INFO - Processed 1100 messages from ('127.0.0.1', 48512)
+2026-02-05 11:51:34,489 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-05 11:51:36,712 - WSL2SocketServer - INFO - Client ('127.0.0.1', 48512) disconnected
+2026-02-05 11:51:36,713 - WSL2SocketServer - INFO - Client ('127.0.0.1', 48512) connection closed
+2026-02-05 12:06:52,941 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 52468)
+2026-02-05 12:06:53,222 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=67%
+2026-02-05 12:06:53,223 - WSL2SocketServer - INFO - Processed 1200 messages from ('127.0.0.1', 52468)
+2026-02-05 12:06:55,576 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=73%
+2026-02-05 12:06:57,930 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=40%
+2026-02-05 12:06:57,930 - WSL2SocketServer - INFO - Processed 1300 messages from ('127.0.0.1', 52468)
+2026-02-05 12:07:00,290 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=87%
+2026-02-05 12:07:02,686 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=45%
+2026-02-05 12:07:02,687 - WSL2SocketServer - INFO - Processed 1400 messages from ('127.0.0.1', 52468)
+2026-02-05 12:07:05,083 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=65%
+2026-02-05 12:07:07,480 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=74%
+2026-02-05 12:07:07,481 - WSL2SocketServer - INFO - Processed 1500 messages from ('127.0.0.1', 52468)
+2026-02-05 12:07:09,871 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=39%
+2026-02-05 12:07:12,262 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=86%
+2026-02-05 12:07:12,262 - WSL2SocketServer - INFO - Processed 1600 messages from ('127.0.0.1', 52468)
+2026-02-05 12:07:14,651 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=46%
+2026-02-05 12:07:18,593 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=64%
+2026-02-05 12:07:18,594 - WSL2SocketServer - INFO - Processed 1700 messages from ('127.0.0.1', 52468)
+2026-02-05 12:07:21,016 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=76%
+2026-02-05 12:07:23,149 - WSL2SocketServer - INFO - Client ('127.0.0.1', 52468) disconnected
+2026-02-05 12:07:23,150 - WSL2SocketServer - INFO - Client ('127.0.0.1', 52468) connection closed
+2026-02-05 12:08:17,370 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 34938)
+2026-02-05 12:08:17,751 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=69%
+2026-02-05 12:08:17,753 - WSL2SocketServer - INFO - Processed 1800 messages from ('127.0.0.1', 34938)
+2026-02-05 12:08:20,141 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=70%
+2026-02-05 12:08:24,366 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=41%
+2026-02-05 12:08:24,367 - WSL2SocketServer - INFO - Processed 1900 messages from ('127.0.0.1', 34938)
+2026-02-05 12:08:26,851 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=87%
+2026-02-05 12:08:29,333 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=43%
+2026-02-05 12:08:29,333 - WSL2SocketServer - INFO - Processed 2000 messages from ('127.0.0.1', 34938)
+2026-02-05 12:08:31,814 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=68%
+2026-02-05 12:08:34,176 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=72%
+2026-02-05 12:08:34,177 - WSL2SocketServer - INFO - Processed 2100 messages from ('127.0.0.1', 34938)
+2026-02-05 12:08:36,468 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=40%
+2026-02-05 12:08:38,759 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=87%
+2026-02-05 12:08:38,760 - WSL2SocketServer - INFO - Processed 2200 messages from ('127.0.0.1', 34938)
+2026-02-05 12:08:41,051 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=44%
+2026-02-05 12:08:43,343 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=66%
+2026-02-05 12:08:43,343 - WSL2SocketServer - INFO - Processed 2300 messages from ('127.0.0.1', 34938)
+2026-02-05 12:08:45,634 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=73%
+2026-02-05 12:08:47,560 - WSL2SocketServer - INFO - Client ('127.0.0.1', 34938) disconnected
+2026-02-05 12:08:47,561 - WSL2SocketServer - INFO - Client ('127.0.0.1', 34938) connection closed
+2026-02-05 12:20:03,368 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 34400)
+2026-02-05 12:20:03,842 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=72%
+2026-02-05 12:20:03,843 - WSL2SocketServer - INFO - Processed 2400 messages from ('127.0.0.1', 34400)
+2026-02-05 12:20:06,221 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=68%
+2026-02-05 12:20:08,596 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=43%
+2026-02-05 12:20:08,597 - WSL2SocketServer - INFO - Processed 2500 messages from ('127.0.0.1', 34400)
+2026-02-05 12:20:10,970 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=87%
+2026-02-05 12:20:13,347 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=41%
+2026-02-05 12:20:13,347 - WSL2SocketServer - INFO - Processed 2600 messages from ('127.0.0.1', 34400)
+2026-02-05 12:20:15,747 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=70%
+2026-02-05 12:20:18,147 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=70%
+2026-02-05 12:20:18,147 - WSL2SocketServer - INFO - Processed 2700 messages from ('127.0.0.1', 34400)
+2026-02-05 12:20:22,206 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=42%
+2026-02-05 12:20:24,570 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=87%
+2026-02-05 12:20:24,570 - WSL2SocketServer - INFO - Processed 2800 messages from ('127.0.0.1', 34400)
+2026-02-05 12:20:26,918 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=42%
+2026-02-05 12:20:29,265 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=69%
+2026-02-05 12:20:29,266 - WSL2SocketServer - INFO - Processed 2900 messages from ('127.0.0.1', 34400)
+2026-02-05 12:20:31,624 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=71%
+2026-02-05 12:20:33,528 - WSL2SocketServer - INFO - Client ('127.0.0.1', 34400) disconnected
+2026-02-05 12:20:33,529 - WSL2SocketServer - INFO - Client ('127.0.0.1', 34400) connection closed
+2026-02-05 12:21:35,813 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 49764)
+2026-02-05 12:21:36,362 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=74%
+2026-02-05 12:21:36,363 - WSL2SocketServer - INFO - Processed 3000 messages from ('127.0.0.1', 49764)
+2026-02-05 12:21:38,653 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=66%
+2026-02-05 12:21:40,945 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=44%
+2026-02-05 12:21:40,946 - WSL2SocketServer - INFO - Processed 3100 messages from ('127.0.0.1', 49764)
+2026-02-05 12:21:43,237 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=87%
+2026-02-05 12:21:45,529 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=40%
+2026-02-05 12:21:45,530 - WSL2SocketServer - INFO - Processed 3200 messages from ('127.0.0.1', 49764)
+2026-02-05 12:21:47,977 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=73%
+2026-02-05 12:21:50,399 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=67%
+2026-02-05 12:21:50,399 - WSL2SocketServer - INFO - Processed 3300 messages from ('127.0.0.1', 49764)
+2026-02-05 12:21:52,820 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=43%
+2026-02-05 12:21:55,246 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=87%
+2026-02-05 12:21:55,247 - WSL2SocketServer - INFO - Processed 3400 messages from ('127.0.0.1', 49764)
+2026-02-05 12:21:57,681 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=41%
+2026-02-05 12:22:00,115 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=71%
+2026-02-05 12:22:00,116 - WSL2SocketServer - INFO - Processed 3500 messages from ('127.0.0.1', 49764)
+2026-02-05 12:22:04,415 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=69%
+2026-02-05 12:22:06,179 - WSL2SocketServer - INFO - Client ('127.0.0.1', 49764) disconnected
+2026-02-05 12:22:06,180 - WSL2SocketServer - INFO - Client ('127.0.0.1', 49764) connection closed
+2026-02-05 12:39:52,188 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 56370)
+2026-02-05 12:39:52,829 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=76%
+2026-02-05 12:39:52,829 - WSL2SocketServer - INFO - Processed 3600 messages from ('127.0.0.1', 56370)
+2026-02-05 12:39:55,121 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=63%
+2026-02-05 12:39:57,412 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=46%
+2026-02-05 12:39:57,413 - WSL2SocketServer - INFO - Processed 3700 messages from ('127.0.0.1', 56370)
+2026-02-05 12:39:59,704 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=86%
+2026-02-05 12:40:01,996 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=39%
+2026-02-05 12:40:01,996 - WSL2SocketServer - INFO - Processed 3800 messages from ('127.0.0.1', 56370)
+2026-02-05 12:40:04,287 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=75%
+2026-02-05 12:40:06,579 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=65%
+2026-02-05 12:40:06,580 - WSL2SocketServer - INFO - Processed 3900 messages from ('127.0.0.1', 56370)
+2026-02-05 12:40:08,871 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=45%
+2026-02-05 12:40:11,171 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=87%
+2026-02-05 12:40:11,172 - WSL2SocketServer - INFO - Processed 4000 messages from ('127.0.0.1', 56370)
+2026-02-05 12:40:13,671 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=40%
+2026-02-05 12:40:16,129 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=73%
+2026-02-05 12:40:16,129 - WSL2SocketServer - INFO - Processed 4100 messages from ('127.0.0.1', 56370)
+2026-02-05 12:40:20,533 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=66%
+2026-02-05 12:40:22,316 - WSL2SocketServer - INFO - Client ('127.0.0.1', 56370) disconnected
+2026-02-05 12:40:22,317 - WSL2SocketServer - INFO - Client ('127.0.0.1', 56370) connection closed
+2026-02-05 12:41:42,307 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 58294)
+2026-02-05 12:41:43,056 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=78%
+2026-02-05 12:41:43,057 - WSL2SocketServer - INFO - Processed 4200 messages from ('127.0.0.1', 58294)
+2026-02-05 12:41:45,399 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=61%
+2026-02-05 12:41:47,742 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=48%
+2026-02-05 12:41:47,742 - WSL2SocketServer - INFO - Processed 4300 messages from ('127.0.0.1', 58294)
+2026-02-05 12:41:50,151 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=86%
+2026-02-05 12:41:52,511 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-05 12:41:52,512 - WSL2SocketServer - INFO - Processed 4400 messages from ('127.0.0.1', 58294)
+2026-02-05 12:41:54,871 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=77%
+2026-02-05 12:41:57,231 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=62%
+2026-02-05 12:41:57,232 - WSL2SocketServer - INFO - Processed 4500 messages from ('127.0.0.1', 58294)
+2026-02-05 12:41:59,602 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=47%
+2026-02-05 12:42:03,803 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=86%
+2026-02-05 12:42:03,803 - WSL2SocketServer - INFO - Processed 4600 messages from ('127.0.0.1', 58294)
+2026-02-05 12:42:06,208 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=39%
+2026-02-05 12:42:08,622 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=75%
+2026-02-05 12:42:08,623 - WSL2SocketServer - INFO - Processed 4700 messages from ('127.0.0.1', 58294)
+2026-02-05 12:42:10,979 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=64%
+2026-02-05 12:42:12,583 - WSL2SocketServer - INFO - Client ('127.0.0.1', 58294) disconnected
+2026-02-05 12:42:12,583 - WSL2SocketServer - INFO - Client ('127.0.0.1', 58294) connection closed
+2026-02-05 12:43:07,209 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 48514)
+2026-02-05 12:43:08,057 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=80%
+2026-02-05 12:43:08,058 - WSL2SocketServer - INFO - Processed 4800 messages from ('127.0.0.1', 48514)
+2026-02-05 12:43:12,247 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=58%
+2026-02-05 12:43:14,604 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=50%
+2026-02-05 12:43:14,604 - WSL2SocketServer - INFO - Processed 4900 messages from ('127.0.0.1', 48514)
+2026-02-05 12:43:17,005 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-05 12:43:19,398 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-05 12:43:19,398 - WSL2SocketServer - INFO - Processed 5000 messages from ('127.0.0.1', 48514)
+2026-02-05 12:43:21,791 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=79%
+2026-02-05 12:43:24,144 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=60%
+2026-02-05 12:43:24,145 - WSL2SocketServer - INFO - Processed 5100 messages from ('127.0.0.1', 48514)
+2026-02-05 12:43:26,463 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-05 12:43:28,783 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-05 12:43:28,783 - WSL2SocketServer - INFO - Processed 5200 messages from ('127.0.0.1', 48514)
+2026-02-05 12:43:31,108 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-05 12:43:33,502 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=77%
+2026-02-05 12:43:33,502 - WSL2SocketServer - INFO - Processed 5300 messages from ('127.0.0.1', 48514)
+2026-02-05 12:43:35,896 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=61%
+2026-02-05 12:43:37,427 - WSL2SocketServer - INFO - Client ('127.0.0.1', 48514) disconnected
+2026-02-05 12:43:37,428 - WSL2SocketServer - INFO - Client ('127.0.0.1', 48514) connection closed
+2026-02-05 12:45:59,553 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 33922)
+2026-02-05 12:46:02,327 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=82%
+2026-02-05 12:46:02,327 - WSL2SocketServer - INFO - Processed 5400 messages from ('127.0.0.1', 33922)
+2026-02-05 12:46:04,695 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=56%
+2026-02-05 12:46:07,085 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=53%
+2026-02-05 12:46:07,086 - WSL2SocketServer - INFO - Processed 5500 messages from ('127.0.0.1', 33922)
+2026-02-05 12:46:09,475 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=83%
+2026-02-05 12:46:11,865 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-05 12:46:11,866 - WSL2SocketServer - INFO - Processed 5600 messages from ('127.0.0.1', 33922)
+2026-02-05 12:46:14,206 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=81%
+2026-02-05 12:46:16,534 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-05 12:46:16,534 - WSL2SocketServer - INFO - Processed 5700 messages from ('127.0.0.1', 33922)
+2026-02-05 12:46:18,863 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-05 12:46:21,210 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-05 12:46:21,211 - WSL2SocketServer - INFO - Processed 5800 messages from ('127.0.0.1', 33922)
+2026-02-05 12:46:23,586 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-05 12:46:25,963 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=79%
+2026-02-05 12:46:25,963 - WSL2SocketServer - INFO - Processed 5900 messages from ('127.0.0.1', 33922)
+2026-02-05 12:46:32,912 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-05 12:46:32,922 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-05 12:46:32,923 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-05 12:46:32,923 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-05 12:46:32,925 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-05 12:46:46,876 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 56342)
+2026-02-05 12:46:49,251 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-05 12:46:51,581 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-05 12:46:51,581 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 56342)
+2026-02-05 12:46:53,910 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-05 12:46:56,280 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-05 12:46:56,281 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 56342)
+2026-02-05 12:46:58,656 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-05 12:47:01,031 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-05 12:47:01,031 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 56342)
+2026-02-05 12:47:03,400 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-05 12:47:05,763 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-05 12:47:05,764 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 56342)
+2026-02-05 12:47:08,127 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-05 12:47:12,358 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-05 12:47:12,359 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 56342)
+2026-02-05 12:47:14,752 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-05 12:47:17,099 - WSL2SocketServer - INFO - Client ('127.0.0.1', 56342) disconnected
+2026-02-05 12:47:17,100 - WSL2SocketServer - INFO - Client ('127.0.0.1', 56342) connection closed
+2026-02-05 12:51:48,207 - WSL2SocketServer - INFO - ZMQ Publisher started on port 5555
+2026-02-05 12:51:48,216 - WSL2SocketServer - INFO - Connected to CAN interface: vcan0
+2026-02-05 12:51:48,217 - WSL2SocketServer - INFO - Socket server listening on 0.0.0.0:8888
+2026-02-05 12:51:48,217 - WSL2SocketServer - INFO - ZMQ Publisher on port 5555
+2026-02-05 12:51:48,217 - WSL2SocketServer - INFO - CAN Interface: vcan0
+2026-02-05 12:52:01,433 - WSL2SocketServer - INFO - New connection from ('127.0.0.1', 55854)
+2026-02-05 12:52:03,766 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=78%
+2026-02-05 12:52:06,076 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=38%
+2026-02-05 12:52:06,081 - WSL2SocketServer - INFO - Processed 100 messages from ('127.0.0.1', 55854)
+2026-02-05 12:52:08,527 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=85%
+2026-02-05 12:52:10,863 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=49%
+2026-02-05 12:52:10,864 - WSL2SocketServer - INFO - Processed 200 messages from ('127.0.0.1', 55854)
+2026-02-05 12:52:13,199 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=59%
+2026-02-05 12:52:15,657 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=79%
+2026-02-05 12:52:15,658 - WSL2SocketServer - INFO - Processed 300 messages from ('127.0.0.1', 55854)
+2026-02-05 12:52:19,862 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=37%
+2026-02-05 12:52:22,282 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=84%
+2026-02-05 12:52:22,282 - WSL2SocketServer - INFO - Processed 400 messages from ('127.0.0.1', 55854)
+2026-02-05 12:52:24,703 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=51%
+2026-02-05 12:52:27,070 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=ON, Light=57%
+2026-02-05 12:52:27,071 - WSL2SocketServer - INFO - Processed 500 messages from ('127.0.0.1', 55854)
+2026-02-05 12:52:29,354 - WSL2SocketServer - INFO - CAN Sent: ID=0x100, Headlamp=OFF, Light=80%
+2026-02-05 12:52:31,592 - WSL2SocketServer - INFO - Client ('127.0.0.1', 55854) disconnected
+2026-02-05 12:52:31,593 - WSL2SocketServer - INFO - Client ('127.0.0.1', 55854) connection closed

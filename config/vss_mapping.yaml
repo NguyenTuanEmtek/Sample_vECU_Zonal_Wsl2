@@ -1,0 +1,73 @@
+# VSS Mapping Configuration
+# CAN ID -> Signal Name -> VSS Path mapping
+
+# Light Control Messages (0x100)
+0x100:
+  headLamp:
+    vss_path: "Vehicle.Body.Lights.IsHighBeamOn"
+    data_type: "boolean"
+    description: "High beam headlight status"
+    conversion: null  # Direct mapping
+    
+  tailLamp:
+    vss_path: "Vehicle.Body.Lights.IsTailLightOn"
+    data_type: "boolean"
+    description: "Tail light status"
+    
+  brakeLamp:
+    vss_path: "Vehicle.Body.Lights.IsBrakeLightOn"
+    data_type: "boolean"
+    description: "Brake light status"
+    
+  indicatorLeft:
+    vss_path: "Vehicle.Body.Lights.IsLeftIndicatorOn"
+    data_type: "boolean"
+    description: "Left turn indicator status"
+    
+  indicatorRight:
+    vss_path: "Vehicle.Body.Lights.IsRightIndicatorOn"
+    data_type: "boolean"
+    description: "Right turn indicator status"
+    
+  lightLevel:
+    vss_path: "Vehicle.Body.Lights.AmbientLight"
+    data_type: "uint8"
+    description: "Ambient light level"
+    conversion:
+      scale: 1.0
+      offset: 0.0
+    
+  vehicleSpeed:
+    vss_path: "Vehicle.Speed"
+    data_type: "uint8"
+    description: "Vehicle speed"
+    conversion:
+      scale: 1.0
+      offset: 0.0
+    unit: "km/h"
+
+# Door Status (0x101)
+0x101:
+  doorStatus:
+    vss_path: "Vehicle.Body.Door.Status"
+    data_type: "uint8"
+    description: "Door status (bitmask)"
+    
+# Window Status (0x102)
+0x102:
+  windowStatus:
+    vss_path: "Vehicle.Body.Window.Status"
+    data_type: "uint8"
+    description: "Window status (bitmask)"
+
+# Diagnostic Messages
+0x200:
+  dtcCode:
+    vss_path: "Vehicle.Diagnostic.DTC.Code"
+    data_type: "uint16"
+    description: "Diagnostic Trouble Code"
+    
+  dtcSeverity:
+    vss_path: "Vehicle.Diagnostic.DTC.Severity"
+    data_type: "uint8"
+    description: "DTC Severity level"

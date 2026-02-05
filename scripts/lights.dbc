@@ -1,0 +1,47 @@
+VERSION ""
+
+NS_ :
+    BA_
+    BA_DEF_
+    BA_DEF_DEF_
+    BA_DEF_DEF_REL_
+    BA_DEF_REL_
+    BA_DEF_SGTYPE_
+    BA_REL_
+    BA_SGTYPE_
+    BO_TX_BU_
+    BU_BO_REL_
+    BU_EV_REL_
+    BU_SG_REL_
+    CAT_
+    CAT_DEF_
+    CM_
+    ENVVAR_DATA_
+    EV_DATA_
+    FILTER
+    NS_DESC_
+    SGTYPE_
+    SGTYPE_VAL_
+    SG_MUL_VAL_
+    SIGTYPE_VALTYPE_
+    SIG_GROUP_
+    SIG_TYPE_REF_
+    SIG_VALTYPE_
+    VAL_
+    VAL_TABLE_
+
+BS_:
+
+BU_: VCU ZC
+
+BO_ 256 LIGHT_CONTROL: 8 VCU
+ SG_ headLamp : 0|1@1+ (1,0) [0|1] "" ZC
+ SG_ tailLamp : 1|1@1+ (1,0) [0|1] "" ZC
+ SG_ brakeLamp : 2|1@1+ (1,0) [0|1] "" ZC
+ SG_ indicatorLeft : 3|1@1+ (1,0) [0|1] "" ZC
+ SG_ indicatorRight : 4|1@1+ (1,0) [0|1] "" ZC
+ SG_ lightLevel : 8|8@1+ (1,0) [0|255] "" ZC
+ SG_ vehicleSpeed : 16|8@1+ (1,0) [0|255] "" ZC
+
+CM_ BO_ 256 "Light control message";
+CM_ SG_ 256 headLamp "Headlamp status (0=off, 1=on)";

@@ -1,0 +1,77 @@
+
+# CAN to VSS Mapping Configuration
+# Format:
+# mappings:
+#   "0xHEX_CAN_ID":
+#     description: "Message description"
+#     mappings:
+#       - vss_path: "Vehicle.VSS.Path"
+#         byte_index: 0
+#         bit_index: 0  # optional - if not provided, use whole byte
+#         data_type: "boolean"  # boolean, uint8, int8, etc.
+#         description: "Signal description"
+#         scale: 1.0  # optional
+#         offset: 0.0  # optional
+
+mappings:
+  "0x100":
+    description: "Light Control Message"
+    mappings:
+      - vss_path: "Vehicle.Body.Lights.IsHighBeamOn"
+        byte_index: 0
+        bit_index: 0
+        data_type: "boolean"
+        description: "High beam headlight status"
+        
+      - vss_path: "Vehicle.Body.Lights.IsTailLightOn"
+        byte_index: 0
+        bit_index: 1
+        data_type: "boolean"
+        description: "Tail light status"
+        
+      - vss_path: "Vehicle.Body.Lights.IsBrakeLightOn"
+        byte_index: 0
+        bit_index: 2
+        data_type: "boolean"
+        description: "Brake light status"
+        
+      - vss_path: "Vehicle.Body.Lights.IsLeftIndicatorOn"
+        byte_index: 0
+        bit_index: 3
+        data_type: "boolean"
+        description: "Left turn indicator status"
+        
+      - vss_path: "Vehicle.Body.Lights.IsRightIndicatorOn"
+        byte_index: 0
+        bit_index: 4
+        data_type: "boolean"
+        description: "Right turn indicator status"
+        
+      - vss_path: "Vehicle.Body.Lights.AmbientLight"
+        byte_index: 1
+        data_type: "uint8"
+        description: "Ambient light level (0-100%)"
+        scale: 0.392  # Scale 0-255 to 0-100%
+        offset: 0
+        
+      - vss_path: "Vehicle.Speed"
+        byte_index: 2
+        data_type: "uint8"
+        description: "Vehicle speed in km/h"
+        scale: 1.0
+        offset: 0
+        
+  "0x200":
+    description: "Door Status Message"
+    mappings:
+      - vss_path: "Vehicle.Body.Doors.DriverDoor.IsOpen"
+        byte_index: 0
+        bit_index: 0
+        data_type: "boolean"
+        description: "Driver door open status"
+        
+      - vss_path: "Vehicle.Body.Doors.PassengerDoor.IsOpen"
+        byte_index: 0
+        bit_index: 1
+        data_type: "boolean"
+        description: "Passenger door open status"
